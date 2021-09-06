@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.moor": "sqlite",
+    "iostream": "cpp"
+  }
+}
